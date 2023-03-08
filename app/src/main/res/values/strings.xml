@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Car advisor</string>
+    <string-array name="carList">
+        <item>SUV</item>
+        <item>Sedan</item>
+        <item>Hatchback</item>
+        <item>Pickup</item>
+    </string-array>
+    <string name="suv_model">Ford Escape EcoBoost</string>
+    <string name="sedan_model">Ford Fusion</string>
+    <string name="hatchback_model">Ford Focus Hatchback</string>
+    <string name="pickup_model">Ford F-150</string>
+</resources>

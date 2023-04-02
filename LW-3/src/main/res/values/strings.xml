@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LW-3</string>
+    <string name="title_activity_receive_message">Receive Message</string>
+</resources>

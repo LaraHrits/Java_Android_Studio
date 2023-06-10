@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LW-4</string>
+    <string name="map_exmpl">exmpl: 53.81323,89.89768</string>
+    <string name="map_btn">Search</string>
+    <string name="phone_btn">Call</string>
+    <string name="phone_exmpl">+380663114455</string>
+    <string name="web_btn">Search</string>
+    <string name="web_title">Enter site name</string>
+</resources>

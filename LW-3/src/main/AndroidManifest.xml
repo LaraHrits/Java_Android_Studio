@@ -8,17 +8,22 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Lw1">
         <activity
-            android:name=".CreateMessageActivity"
+            android:name=".WebActivity"
+            android:exported="false" />
+        <activity
+            android:name=".PhoneActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MapActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
-        </activity>
-        <activity
-            android:name=".ReceiveMessageActivity"
-            android:label="@string/title_activity_receive_message">
         </activity>
     </application>
 
